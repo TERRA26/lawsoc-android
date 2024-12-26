@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lawsoc</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="please_login">Please login to continue</string>
+    <string name="username_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login">Login</string>
+    <string name="title_activity_home">Home</string>
+    <string name="welcome">Welcome</string>
+    <string name="welcome_user">Welcome, %1$s</string>
+    <string name="Logout">Logout</string>
+    <string name="please_enter_credentials">Please enter credentials</string>
+    <string name="login_successful">Login successful!</string>
+    <string name="logo_description">Law Society Logo</string>
+    <string name="login_failed">Login failed: %1$s</string>
+    <string name="logout">Logout</string>
+
+    <!-- Chat related strings -->
+    <string name="type_message">Type your message</string>
+    <string name="send">Send</string>
+
+    <!-- Menu items -->
+    <string name="visit_website">Visit Website</string>
+    <string name="homepage">Homepage</string>
+    <string name="chatbot">JusAsk</string>
+    <string name="crm">CRM</string>
+    <string name="homepage_icon_description">Homepage Icon</string>
+    <string name="chatbot_icon_description">Chatbot Icon</string>
+    <string name="crm_icon_description">CRM Icon</string>
+    <string name="chat_history">Chat History</string>
+    <string name="clear_history">Clear History</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="new_chat">New Chat</string>
+    <string name="delete_chat">Delete Chat</string>
+    <string name="rename_chat">Rename Chat</string>
+    <string name="email_required">Email is required</string>
+    <string name="invalid_email">Please enter a valid email address</string>
+    <string name="password_required">Password is required</string>
+    <string name="invalid_credentials">Invalid email or password</string>
+    <string name="network_error">Network error. Please check your connection and try again.</string>
+    <string name="login_failed_try_again">Login failed. Please try again.</string>
+    <string name="app_testing_phase">Access Restricted: This app is currently in testing phase and is only available to authorized test users. Please contact the IT team if you need access.</string>
+    <string name="unauthorized_access">Access Denied: This application is only available to authorized users.</string>
+</resources>

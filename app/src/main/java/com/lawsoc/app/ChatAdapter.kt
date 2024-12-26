@@ -55,9 +55,6 @@ class ChatAdapter : RecyclerView.Adapter<ChatAdapter.MessageViewHolder>() {
             } else {
                 // Remove duplicate disclaimer if it exists
                 var content = message.content
-                if (content.contains(disclaimerText)) {
-                    content = content.replace(disclaimerText, "").trim()
-                }
 
                 // Keep markdown links as is
                 markwon.setMarkdown(this, content)
